@@ -18,20 +18,7 @@
     <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
   </picture>
   </a>
-  <a href="https://svelte.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ov46xih.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YSsNujB.png">
-    <img alt="Svelte" src="https://i.imgur.com/ov46xih.png">
-  </picture>
-  </a>
-  <a href="https://www.youtube.com/hac1337" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
-    <img alt="Cloudkid" src="https://github.com/hac01/gif_mages/blob/main/Magnificent-Blue-Eyes-Anime-Girl-Wallpaper-3246908556.jpg?raw=true">
-  </picture>
-  </a>
+
   <a href="https://fedoraproject.org/" target="_blank">
     <img alt="Fedora-slay" src="https://github.com/hac01/gif_mages/blob/main/tenor-2953828049.gif?raw=true">
   </a>
