@@ -13,6 +13,9 @@
     <a href="https://app.hackthebox.com/profile/485893" target="_blank">
     <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/13e819d2d90cc9c894de8706fc2c7b9f64710644_hq-573447951.gif?raw=true">
   </a>
+ <a href="https://app.hackthebox.com/profile/485893" target="_blank">
+    <img alt="Spline" src="https://github.com/hac01/hac01/assets/70646122/0286d21c-9f5b-427d-a7e5-55edb37dd545">
+  </a>
   
 </h1>
   
