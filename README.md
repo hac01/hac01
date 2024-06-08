@@ -125,7 +125,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
+background: url(https://media.giphy.com/media/6k6iDdi5NN8ZO/giphy.gif);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
