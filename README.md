@@ -6,7 +6,7 @@
   <span>༺</span>
   <a href="https://vizzy.cubiq.dev" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
+      <source media="(prefers-color-scheme: dark)" srcset="http://onehdwallpaper.com/wp-content/uploads/2015/07/Anime-Girls-Beautiful-Wallpapers.jpg">
       <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
       <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
     </picture>
@@ -29,7 +29,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
-    <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
+    <img alt="Cloudkid" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gEUuvSuSV1fiuTI_frZINwHaEo%26pid%3DApi&f=1&ipt=a73ce8ddd6f49a06aaafdf1f708ac5b65cc2044bb6d9ed67a108e99b9e022dd6&ipo=images">
   </picture>
   </a>
   <a href="https://fedoraproject.org/" target="_blank">
