@@ -10,7 +10,6 @@
   <a href="https://app.hackthebox.com/profile/485893" target="_blank">
     <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/ezgif-2-09263e4173.gif?raw=true">
   </a>
-
     <a href="https://app.hackthebox.com/profile/485893" target="_blank">
     <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/tenor-623311576.gif?raw=true">
   </a>
