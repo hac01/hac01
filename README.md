@@ -29,14 +29,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
-    <img alt="Cloudkid" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gEUuvSuSV1fiuTI_frZINwHaEo%26pid%3DApi&f=1&ipt=a73ce8ddd6f49a06aaafdf1f708ac5b65cc2044bb6d9ed67a108e99b9e022dd6&ipo=images">
+    <img alt="Cloudkid" src="https://github.com/hac01/gif_mages/blob/main/Magnificent-Blue-Eyes-Anime-Girl-Wallpaper-3246908556.jpg?raw=true">
   </picture>
   </a>
   <a href="https://fedoraproject.org/" target="_blank">
-    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
+    <img alt="Fedora-slay" src="https://github.com/hac01/gif_mages/blob/main/Magnificent-Blue-Eyes-Anime-Girl-Wallpaper-3246908556.jpg?raw=true">
   </a>
   <a href="https://app.hackthebox.com/profile/485893" target="_blank">
-    <img alt="Spline" src="">
+    <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/Magnificent-Blue-Eyes-Anime-Girl-Wallpaper-3246908556.jpg?raw=true">
   </a>
   <span>༻</span>
 </h1>
