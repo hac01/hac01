@@ -36,7 +36,7 @@
     <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
   </a>
   <a href="https://app.hackthebox.com/profile/485893" target="_blank">
-    <img alt="Spline" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Z18UG-zYqsKRvLf1vyJRMQHaHa%26pid%3DApi&f=1&ipt=22a4e31a0c865b87f4d548ab9800036b8e8a9c1d4e60fdc702d223e71ed3be1f&ipo=images">
+    <img alt="Spline" src="">
   </a>
   <span>༻</span>
 </h1>
