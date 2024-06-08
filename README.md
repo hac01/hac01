@@ -125,7 +125,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://i.giphy.com/6k6iDdi5NN8ZO.webp);
+background: url(https://github.com/hac01/gif_mages/blob/main/ezgif-2-09263e4173.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
