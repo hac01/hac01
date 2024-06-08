@@ -11,13 +11,7 @@
       <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
     </picture>
   </a>
-  <a href="https://arc.net/" target="_blank">
-  <picture>
-  	<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yfh19VV.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WF96E9W.png">
-    <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
-  </picture>
-  </a>
+
 
   <a href="https://fedoraproject.org/" target="_blank">
     <img alt="Fedora-slay" src="https://github.com/hac01/gif_mages/blob/main/tenor-2953828049.gif?raw=true">
