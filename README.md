@@ -2,15 +2,6 @@
 
 <!-- # <p  align="center"> ༺  ![:vizzy: ](https://cdn.discordapp.com/emojis/855518015553929236.png?quality=lossless&size=48 ) ![:arcWhite:](https://i.imgur.com/in6Uqg3.png ) ![:svelte:](https://cdn.discordapp.com/emojis/764128238225195059.png?quality=lossless&size=48) ![:cloudkid:](https://i.imgur.com/LGnaTIz.png) ![:fedoraslay:](https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48) ![:spline:](https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48) ༻ </p> -->
 
-<h1 align="center">
-  <span>༺</span>
-  <a href="https://vizzy.cubiq.dev" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="http://onehdwallpaper.com/wp-content/uploads/2015/07/Anime-Girls-Beautiful-Wallpapers.jpg">
-      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
-      <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
-    </picture>
-  </a>
 
 
   <a href="https://fedoraproject.org/" target="_blank">
