@@ -36,7 +36,7 @@
     <img alt="Fedora-slay" src="https://github.com/hac01/gif_mages/blob/main/tenor-2953828049.gif?raw=true">
   </a>
   <a href="https://app.hackthebox.com/profile/485893" target="_blank">
-    <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/Magnificent-Blue-Eyes-Anime-Girl-Wallpaper-3246908556.jpg?raw=true">
+    <img alt="Spline" src="https://github.com/hac01/gif_mages/blob/main/ezgif-2-09263e4173.gif?raw=true">
   </a>
   <span>༻</span>
 </h1>
