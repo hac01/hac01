@@ -3,7 +3,7 @@
 <!-- # <p  align="center"> ༺  ![:vizzy: ](https://cdn.discordapp.com/emojis/855518015553929236.png?quality=lossless&size=48 ) ![:arcWhite:](https://i.imgur.com/in6Uqg3.png ) ![:svelte:](https://cdn.discordapp.com/emojis/764128238225195059.png?quality=lossless&size=48) ![:cloudkid:](https://i.imgur.com/LGnaTIz.png) ![:fedoraslay:](https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48) ![:spline:](https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48) ༻ </p> -->
 
 
-
+<!--
   <a href="https://fedoraproject.org/" target="_blank">
     <img alt="Fedora-slay" src="https://github.com/hac01/gif_mages/blob/main/tenor-2953828049.gif?raw=true">
   </a>
@@ -18,7 +18,7 @@
   </a>
   
 </h1>
-  
+  -->
 
 
 
