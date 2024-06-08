@@ -63,7 +63,7 @@
     background-size="cover"
     width="130vw"
     opacity="0.5"
-    background="url('https://media.giphy.com/media/6k6iDdi5NN8ZO/giphy.gif')">
+    background="url('https://i.giphy.com/6k6iDdi5NN8ZO.webp')">
 </mmlToken>
 
 
